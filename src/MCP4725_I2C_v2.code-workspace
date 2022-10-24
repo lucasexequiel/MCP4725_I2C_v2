@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"freertos.h": "c",
+			"timers.h": "c",
+			"i2cdev.h": "c"
+		}
+	}
+}
